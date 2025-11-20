@@ -76,15 +76,5 @@ Action Items
 - **Learning commitments / מחויבות להכשרה:** Guarantee at least one structured learning opportunity per employee each year to cut attrition risk in half (27.8% → 12.7%).  
 - **Career pathing & rewards / מסלולי קידום ושכר:** Communicate transparent promotion paths, keep compensation benchmarks current, and use selective retention bonuses for Sales/HR critical roles.
 
-Reproducibility Tips
---------------------
-- Keep raw sources read-only; derive new datasets in separate files or sheets.  
-- When adapting to new HR snapshots, verify column names align before running the merge step.  
-- Refresh plots after any filtering tweaks to avoid stale visuals in exported reports.
 
-Contributing / Next Steps
--------------------------
-- Expand with predictive modeling (e.g., classification baselines) or cohort dashboards.  
-- Localize additional markdown if you need deeper Hebrew context.  
-- When making changes, duplicate the notebook or use git branches to preserve the delivered version.
 
